@@ -46,18 +46,10 @@ brew "jenv"
 brew "jq"
 # Mac App Store command-line interface
 brew "mas"
-# Manage multiple Node.js versions
-brew "nvm"
 # Prompt theme engine for any shell
 brew "oh-my-posh"
-# Development kit for the Java programming language
-brew "openjdk"
-# Development kit for the Java programming language
-brew "openjdk@17"
 # Simplistic interactive filtering tool
 brew "peco"
-# Python version management
-brew "pyenv"
 # Login and retrieve AWS temporary credentials using a SAML IDP
 brew "saml2aws"
 # Static analysis and lint tool, for (ba)sh scripts
