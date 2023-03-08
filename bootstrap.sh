@@ -8,4 +8,5 @@ xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install tools from Brewfile
-brew bundle
+[ ! -e Brewfile ] && curl -fsSLO https://raw.githubusercontent.com/edgranau/mac-bootstrap/main/Brewfile
+brew bundle install
