@@ -5,3 +5,4 @@
 ## Tools
 
 - xcode-setup
+- brew.sh
