@@ -6,3 +6,4 @@
 
 - xcode-setup
 - brew.sh
+- brewfile

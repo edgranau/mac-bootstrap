@@ -6,3 +6,6 @@ xcode-select --install
 
 # Install Brew.sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Install tools from Brewfile
+brew bundle
